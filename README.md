@@ -1,5 +1,5 @@
 # 无root进行搞机       
-> 若您已安装Magisk但不会使用请请跳转到[Magisk文档](https://chouge1huao.github.io/MagiskDocument/)           
+> 若您已安装Magisk但不会使用请请跳转到[Magisk文档](https://chouge1huao.github.io/MagiskDocument/)-           
 大家都知道搞机肯定需要权限然而没有root怎么办呢这里我列出几种能够获取并管理权限的应用      
 一. Shizuku 这个想必大多数人都知道它是用来提供adb接口给其他应用使用缺点是每次重启要重新激活有三种激活方式      
 1.root这个激活方式就不多提了毕竟是无root         
