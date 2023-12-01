@@ -11,7 +11,7 @@
 ![](images/s.png)
 
    
-二.Dhizuku 这个是仿照Shizuku的提供设备管理员的接口也就是说激活了他你可以给多个应用授权设备管理员目前有两种激活方式
-1.shizuku
+二.Dhizuku 这个是仿照Shizuku的提供设备管理员的接口也就是说激活了他你可以给多个应用授权设备管理员目前有两种激活方式(将dhizuku设为设备管理员)
+1.shizuku用shizuku授权自动执行命令激活
 2.使用shll执行命令
 
