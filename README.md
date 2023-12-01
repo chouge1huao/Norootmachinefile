@@ -25,8 +25,8 @@ DAX模块
 只要把DAX模块作用到要接入的应用即可
 
 ## 免rootXP框架     
-太极     
-LSPatch     
+### 太极     
+### LSPatch     
 使用教程      
 1.激活   
 LSPatch管理器需要Shizuku激活进入软件后点击上方卡片即可授权          
