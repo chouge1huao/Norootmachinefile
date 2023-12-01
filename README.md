@@ -21,7 +21,7 @@
 准备好以下软件       
 Dhiziku       
 DAX模块     
-任意XP框架(这里用LSPatch)      
+任意XP框架      
 只要把DAX模块作用到要接入的应用即可
 
 XP框架     
