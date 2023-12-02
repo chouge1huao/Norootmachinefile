@@ -1,4 +1,4 @@
-[惊喜](1.md)
+[猜猜这是啥](1.md)
 
 # 无root进行搞机       
 > 若您已安装Magisk但不会使用或不会安装请跳转到[Magisk文档](https://chouge1huao.github.io/MagiskDocument/)        
